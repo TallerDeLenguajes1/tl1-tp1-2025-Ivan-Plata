@@ -14,3 +14,10 @@
 
 #### Creando un archivo llamado ".gitignore" en la raiz de mi proyecto y agregando adentro las rutas o nombres de archivos que quiera que Git ignore.
 
+#### Ejemplo: Para ignorar un archivo "ignorado.txt"
+
+##### .gitignore
+```
+ignorado.txt
+```
+
