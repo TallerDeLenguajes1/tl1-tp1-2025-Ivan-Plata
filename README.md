@@ -21,3 +21,6 @@
 ignorado.txt
 ```
 
+## Punto 3).g
+
+#### La direccion de memoria almacenada por el puntero es la misma que la direccion de memoria de la variable. En el punto 4 se obtiene la direccion de memoria donde está almacenado el puntero, no es igual a los anteriores porque son direcciones de memoria distintas, el puntero y la variable estan almacenados en distintas direcciones de memoria.
